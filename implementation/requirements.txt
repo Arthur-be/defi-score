@@ -25,7 +25,6 @@ numpy==1.17.2
 pandas==0.25.1
 pandas-datareader==0.8.1
 parsimonious==0.8.1
-pprint==0.1
 protobuf==3.10.0
 pycryptodome==3.9.0
 pyrsistent==0.15.4
